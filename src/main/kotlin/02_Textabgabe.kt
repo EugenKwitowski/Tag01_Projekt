@@ -44,5 +44,4 @@ Ausführen...
 [X]ist der Prozess, in dem das Programm auf einem Gerät gestartet wird
 [ ]heißt das Programm zu beenden
 
-
  */
